@@ -1,13 +1,14 @@
 # ChatBot – AI Navigation Assistant
 
-Technologies Used
+Technologies Used:
+
 ⚛️ ReactJS — JavaScript library for building user interfaces
 
 📦 ContextAPI — Global state management
 
 🤖 Google Gemini API — AI integration for chat responses
 
-🧠 Features:
+Features:
 
 Corner chat interface (floating pop-up style)
 
