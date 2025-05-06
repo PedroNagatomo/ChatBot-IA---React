@@ -1,6 +1,25 @@
-# React + Vite
+# ChatBot – AI Navigation Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies Used
+⚛️ ReactJS — JavaScript library for building user interfaces
+
+📦 ContextAPI — Global state management
+
+🤖 Google Gemini API — AI integration for chat responses
+
+🧠 Features:
+
+Corner chat interface (floating pop-up style)
+
+Real-time communication with AI via Gemini API
+
+Session-based chat history storage
+
+Navigation help and command suggestions
+
+Context-aware responses based on user interaction
+
+-----------------------------------------------------------------
 
 Currently, two official plugins are available:
 
